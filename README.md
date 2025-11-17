@@ -5,19 +5,17 @@
   4. Raphael Magaso
 
 # Our Project Milestones
-## MILESTONE I (Nov Week 1-2)
+## MILESTONE I (Nov Week 1)
 ### What we'll do: 
 - Developed a route for time tracker route
 - Confirmation it works on swagger editor.
-- Submitt xaml file.
+- Submmit yaml file.
+
 ### Deliverables: 
-- Deliverables ( / Evidence)
-- The README.md file will be updated with:
-- Project overview & purpose
-- Problem/Needs analysis
-- Proposed solution summary
-- A data model section describing the fields for the Quote entity.
 - An api.yaml (or similar API documentation file) listing planned endpoints and HTTP methods.
 - Initial project repository created and pushed to GitHub.
-
+- Fork the repository to the members.
+  
 ### Checklists:
+- All members have forked the repository.
+- yaml file has been submitted.
