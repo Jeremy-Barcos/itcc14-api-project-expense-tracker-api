@@ -8,9 +8,10 @@
 ## MILESTONE I (Nov Week 1-2)
 ### What we'll do: 
 - Developed a route for time tracker route
-- yes
+- Confirmation it works on swagger editor.
+- Submitt xaml file.
 ### Deliverables: 
-- Deliverables (Product / Evidence)
+- Deliverables ( / Evidence)
 - The README.md file will be updated with:
 - Project overview & purpose
 - Problem/Needs analysis
